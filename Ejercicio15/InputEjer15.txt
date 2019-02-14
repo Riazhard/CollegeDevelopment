@@ -1,0 +1,30 @@
+10
+FormarAlianza 1 5
+FormarRival 0 1
+Alianza 2 7 
+FormarAlianza 0 6
+Rival 7 8
+FormarAlianza 1 3
+FormarRival 1 8
+Rival 3 8
+Alianza 0 8
+Alianza 1 3
+Rival 5 9
+FormarAlianza 0 1
+Alianza 0 1
+Output:
+NO
+NO
+SI
+SI
+SI
+NO
+ERROR
+NO
+
+10
+FormarAlianza 1 5
+FormarRival 0 1
+FormarAlianza 0 6
+FormarAlianza 1 3
+FormarRival 1 8
